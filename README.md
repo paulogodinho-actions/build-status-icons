@@ -2,7 +2,7 @@
 Collections of icons in Green, Red and Blue background to indicate the build statuses of Success, Failed and Canceled
 
 ## RemixIcon
-This repository contains all the icons from [RemixIcons](https://remixicon.com/), 
+This repository contains all the icons from [RemixIcons](https://remixicon.com/)converted to PNG.
 
 ## Why
 Some messagers, like Slack 😡, do not currently suport SVG, any image that will be shared in it must be first converted to a more standard format like PNG or JPG.
@@ -20,6 +20,6 @@ Use the following URL to display an image:
 - `{COLOR}` is one of the three available colors, `green`, `red` and `blue`
 
 Using the URL: <br>
-`https://github.com/paulogodinho-actions/build-status-icons/blob/main/remixicon-output/server-fill_green.png?raw=true`
-will output:
+`https://github.com/paulogodinho-actions/build-status-icons/blob/main/remixicon-output/server-fill_green.png?raw=true` <br />
+Will output: <br />
 ![Sample Usage](https://github.com/paulogodinho-actions/build-status-icons/blob/main/remixicon-output/server-fill_green.png?raw=true "Sample Usage")

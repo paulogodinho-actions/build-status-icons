@@ -1,0 +1,4 @@
+[submodule "RemixIcon"]
+	path = RemixIcon
+	url = git@github.com:Remix-Design/RemixIcon.git
+	branch = master

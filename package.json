@@ -1,0 +1,23 @@
+{
+  "name": "build-status-icons",
+  "version": "1.0.0",
+  "description": "Collections of icons in Green, Red and Blue background to indicate the build statuses of Success, Failed and Canceled",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulogodinho-actions/build-status-icons.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulogodinho-actions/build-status-icons/issues"
+  },
+  "homepage": "https://github.com/paulogodinho-actions/build-status-icons#readme",
+  "dependencies": {
+    "sharp": "^0.31.2"
+  }
+}
